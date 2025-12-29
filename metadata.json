@@ -1,0 +1,5 @@
+{
+  "name": "BHYT Price Watch AI",
+  "description": "Hệ thống giám định giá thuốc BHYT tự động sử dụng AI và SQL. Hỗ trợ nhập liệu Excel, phân tích chênh lệch giá tự động và xuất báo cáo.",
+  "requestFramePermissions": []
+}
